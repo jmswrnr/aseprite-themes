@@ -1,0 +1,17 @@
+{
+  "name": "jmswrnr-dark-theme",
+  "displayName": "JMSWRNR's Dark Theme",
+  "description": "A modern dark theme",
+  "version": "1.0",
+  "author": { 
+    "name": "James Warner (@JMSWRNR)"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "JMSWRNR's Dark Theme", "path": "." }
+    ]
+  }
+}
