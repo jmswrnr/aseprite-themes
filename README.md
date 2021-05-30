@@ -14,7 +14,7 @@
 
 Based on the Default theme by (C) David Capello and Ilija Melentijevic
 
-**[Download Dark Theme](https://github.com/jmswrnr/aseprite-themes/releases/download/1.0.0/jmswrnr-dark-theme.zip)** 1.0.0
+**[Download Dark Theme](https://github.com/jmswrnr/aseprite-themes/releases/download/1.0.1/jmswrnr-dark-theme.zip)** 1.0.1
 
 <img src="https://raw.githubusercontent.com/jmswrnr/aseprite-themes/master/screenshots/jmswrnr-dark-theme.png" alt="Dark Theme Screenshot" width="689px" style="max-width:100%">
 
@@ -24,7 +24,7 @@ Based on the Default theme by (C) David Capello and Ilija Melentijevic
 
 Based on the Default theme by (C) David Capello and Ilija Melentijevic
 
-**[Download Dark Twitch Theme](https://github.com/jmswrnr/aseprite-themes/releases/download/1.0.0/jmswrnr-dark-twitch-theme.zip)** 1.0.0
+**[Download Dark Twitch Theme](https://github.com/jmswrnr/aseprite-themes/releases/download/1.0.1/jmswrnr-dark-twitch-theme.zip)** 1.0.1
 
 <img src="https://raw.githubusercontent.com/jmswrnr/aseprite-themes/master/screenshots/jmswrnr-dark-twitch-theme.png" alt="Dark Twitch Theme Screenshot" width="689px" style="max-width:100%">
 
