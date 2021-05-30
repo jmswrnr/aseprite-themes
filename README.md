@@ -2,7 +2,7 @@
 
 ## Installation Guide
 
-⚠️ Make sure you download and install the [RobotoMono-Bold.ttf](https://github.com/google/fonts/raw/master/apache/robotomono/RobotoMono-Bold.ttf) font ⚠️
+⚠️ Make sure you download and install the [RobotoMono-Bold.ttf](https://fonts.google.com/download?family=Roboto%20Mono) font ⚠️
 
 1. After installing the font, **reload Aseprite**
 2. Download the .zip for the theme you want
@@ -10,6 +10,9 @@
 4. Select the theme's .zip file
 5. Switch to the **Theme** tab in the **Preferences** window
 6. Select the new theme!
+
+## Troubleshooting
+If you get a message about there being no default font for the theme, you must either install the font, or, if that doesn't work (as may be the case on Linux), you can place the RobotoMono-Bold.ttf file inside the directory with the installed theme files. This directory can be located by navigating to **Edit** > **Preferences** > **Theme**, selecting the theme, then clicking **Open Folder**.
 
 ---
 
