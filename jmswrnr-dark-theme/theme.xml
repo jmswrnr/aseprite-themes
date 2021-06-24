@@ -81,13 +81,13 @@
         <color id="popup_window_border" value="#000000" />
         <color id="tooltip_text" value="#000000" />
         <color id="tooltip_face" value="#c5c5d1" />
-        <color id="filelist_even_row_text" value="#000000" />
-        <color id="filelist_even_row_face" value="#ffffff" />
-        <color id="filelist_odd_row_text" value="#000000" />
-        <color id="filelist_odd_row_face" value="#ffffff" />
+        <color id="filelist_even_row_text" value="#ffc8c8" />
+        <color id="filelist_even_row_face" value="#111112" />
+        <color id="filelist_odd_row_text" value="#ffc8c8" />
+        <color id="filelist_odd_row_face" value="#000000" />
         <color id="filelist_selected_row_text" value="#ffffff" />
-        <color id="filelist_selected_row_face" value="#005eff" />
-        <color id="filelist_disabled_row_text" value="#ffc8c8" />
+        <color id="filelist_selected_row_face" value="#3a3a3d" />
+        <color id="filelist_disabled_row_text" value="#c6c6c6" />
         <color id="timeline_normal" value="#c6c6c6" />
         <color id="timeline_normal_text" value="#ffffff" />
         <color id="timeline_hover" value="#d9d9d9" />
@@ -193,6 +193,9 @@
         <part id="combobox_arrow_right_disabled" x="131" y="196" w="9" h="9" />
         <part id="newfolder" x="99" y="211" w="9" h="9" />
         <part id="newfolder_selected" x="115" y="211" w="9" h="9" />
+        <part id="list_view" x="96" y="224" w="9" h="9" />
+        <part id="small_icon_view" x="105" y="224" w="9" h="9" />
+        <part id="big_icon_view" x="114" y="224" w="9" h="9" />
         <part id="toolbutton_normal" x="96" y="0" w1="3" w2="10" w3="3" h1="3" h2="9" h3="4" />
         <part id="toolbutton_hot" x="112" y="0" w1="3" w2="10" w3="3" h1="3" h2="9" h3="4" />
         <part id="toolbutton_last" x="96" y="16" w1="3" w2="10" w3="3" h1="3" h2="9" h3="4" />
@@ -249,6 +252,7 @@
         <part id="selection_replace" x="176" y="160" w="7" h="7" />
         <part id="selection_add" x="184" y="160" w="7" h="7" />
         <part id="selection_subtract" x="192" y="160" w="7" h="7" />
+        <part id="selection_intersect" x="200" y="160" w="7" h="7" />
         <part id="unpinned" x="192" y="144" w="8" h="8" />
         <part id="pinned" x="200" y="144" w="8" h="8" />
         <part id="drop_down_button_left_normal" x="48" y="32" w1="3" w2="2" w3="3" h1="4" h2="6" h3="6" />
@@ -408,6 +412,13 @@
         <part id="check_hot" x="32" y="54" w1="2" w2="6" w3="2" h1="2" h2="6" h3="2" />
         <part id="radio_hot" x="32" y="54" w1="2" w2="6" w3="2" h1="2" h2="6" h3="2" />
         <part id="tab_hover" x="16" y="98" w1="4" w2="7" w3="5" h1="4" h2="6" h3="4" />
+        <part id="outline_circle" x="144" y="224" w="13" h="15" />
+        <part id="outline_square" x="160" y="224" w="13" h="15" />
+        <part id="outline_horizontal" x="176" y="224" w="13" h="15" />
+        <part id="outline_vertical" x="192" y="224" w="13" h="15" />
+        <part id="outline_empty_pixel" x="208" y="224" w="5" h="5" />
+        <part id="outline_full_pixel" x="214" y="224" w="5" h="5" />
+        <part id="dynamics" x="176" y="144" w="16" h="16" />
     </parts>
     <styles>
         <style id="box" />
